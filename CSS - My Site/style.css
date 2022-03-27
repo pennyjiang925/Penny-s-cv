@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+.cloud {
+  margin-left: 150px;
+
+}
+
+
+h1 {
+  font-size: 5.625rem;
+  color: white;
+  margin: 40px 0 auto 0;
+  font-family: "Sacramento", fantasy;
+  line-height: 2;
+  }
+
+.penny-profile {
+  margin: 30px auto 10px auto;
+  width: 40%;
+}
+
+
+.intro {
+  width: 80%;
+  margin: auto;
+  }
+
+  p { color: #7C99AC;
+    line-height: 2;
+  }
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px;}
+
+
+
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #3DB2FF;
+  font-weight: normal;}
+
+h3 {
+  color: #9ADCFF;
+}
+
+.a {
+  color: #11999E;
+}
+
+h4 { font-family: "Montserrat", sans-serif;
+font-size: 1.5rem;
+color: white;
+font-weight: lighter;
+margin: 10px auto 100px auto;
+
+}
+
+
+.first-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #CAF0F8;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.skill-image1 {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+
+}
+
+.skill-image2 {
+  float: right;
+  margin-left: 25px;
+  width: 25%;
+}
+
+.bottom-container {
+  padding: 50px 20px;
+  background-color: #EFFFFD;
+}
+
+.linkedin {
+  width: 2%;
+  margin-right: 20px;
+}
+
+.linkedin:hover {background-color: black;}
+.facebook:hover {background-color: black;}
+.instagram:hover {background-color: black;}
+
+.facebook {
+  width: 2%;
+}
+
+.instagram {
+  width: 2%;
+  margin-left: 20px;
+
+}
+.contact-me {
+  border-radius: 8;
+}
+
+.btn {
+	background-color:#9ADCFF;
+	-webkit-border-radius:18px;
+	-moz-border-radius:18px;
+	border-radius:18px;
+	border:1px solid;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:15px 24px;
+	text-decoration:none;
+  margin: 30px auto 60px auto;
+}
+.btn:hover {
+	background-color:#3DB2FF;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
