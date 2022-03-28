@@ -13,7 +13,7 @@ body {
 h1 {
   font-size: 5.625rem;
   color: white;
-  margin: 40px 0 auto 0;
+  margin: 10px 0 auto 0;
   font-family: "Sacramento", cursive;
   line-height: 2;
   }
@@ -60,7 +60,7 @@ h4 { font-family: "Montserrat", sans-serif;
 font-size: 1.5rem;
 color: white;
 font-weight: lighter;
-margin: 10px auto 100px auto;
+margin: 0 auto 100px auto;
 
 }
 
